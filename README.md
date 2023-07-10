@@ -22,15 +22,13 @@ Cookies <br/>
 2) Using routing parameters.  <br/>
 3) Passing Data using Session. <br/>
 
-<br/><br/>
 
 <b> Locate Local Storage, Session Storage, and Cookies In Browser </b> <br/>
 Right click On WebPage----> Inspect--->Application{TAB}
+<br/>
 
-<br/> <br/>
 
 <b> Session Storage In Angular  </b> <br/>
-
 localStorage.setItem(key, 'New Value'); <br/>
 
 
@@ -41,9 +39,8 @@ npm install ngx-cookie-service --save  <br/>
 
 providers:[CookieService], {app.module.ts file} <br/>
 
-<br/> <br/>
-
 <b> Note: Important Methods of cookies are used in this POC </b> <br/>
+
 
 Software Used <br/>
 node --version = v14.20.0 <br/>
@@ -55,6 +52,5 @@ Check my work 👉👉👉👉 https://abhigit799.github.io/angular-HttpClient-A
 
 
 <br/>
-
 
 
